@@ -2,7 +2,6 @@
 
 A Python tool to check the validity of proxies from a list and save the working ones to a file.
 
-![Logo](https://via.placeholder.com/150) <!-- Optional: Add a logo or banner image -->
 
 ## Features
 
